@@ -63,9 +63,9 @@ header {
 }
 
 /** hot album **/
-
 #content {
-  width: 1200px;
+  max-width: 1200px;  
+  margin: 0px auto;
 }
 
 #hot-album div {
